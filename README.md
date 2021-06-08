@@ -1,4 +1,4 @@
-# vmapertool
+# VMAPER
 
 Hello everyone!
 
